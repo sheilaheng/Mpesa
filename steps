@@ -1,0 +1,6 @@
+1. Pip install django_daraja
+2. On your templates folder create  a pay html file
+3. Add django_daraja to your settings as  installed apps
+4. On views create function to makepayments
+5. Run migrations on your app and django_daraja
+6. Migrate the field
